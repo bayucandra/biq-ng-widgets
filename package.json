@@ -1,0 +1,48 @@
+{
+  "name": "biq-ng-widgets",
+  "version": "0.0.1",
+  "description": "Angular widgets",
+  "main": "biq-ng-widgets.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayucandra/biq-ng-widgets.git"
+  },
+  "keywords": [
+    "Angular",
+    "widgets",
+    "progress",
+    "bar",
+    "dialog",
+    "autocomplete",
+    "select"
+  ],
+  "author": "bayucandra@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bayucandra/biq-ng-widgets/issues"
+  },
+  "homepage": "https://github.com/bayucandra/biq-ng-widgets#readme",
+  "dependencies": {
+    "angular": "^1.6.5"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.6.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "jasmine-core": "^2.6.4",
+    "karma": "^1.7.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4"
+  }
+}
